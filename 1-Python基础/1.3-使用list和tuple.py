@@ -2,33 +2,33 @@
 
 # list
 #   Python内置的一种数据类型是列表：list。list是一种有序的集合，可以随时添加和删除其中的元素。
-list = ['a', 2,'c','d']
+list1 = ['a', 2, 'c', 'd']
 
-print list[0]
+print list1[0]
 
-print list
+print list1
 
-print len(list)
+print len(list1)
 
 
 # 获取倒数第一个元素
-print list[-1]
+print list1[-1]
 
 # append 向数组末尾追加元素
-list.append('x')
-print list
+list1.append('x')
+print list1
 
 # 向指定位置插入元素
-list.insert(1,'aa')
-print list
+list1.insert(1, 'aa')
+print list1
 
 # 删除末尾元素
-list.pop()
-print list
+list1.pop()
+print list1
 
 # 删除指定位置元素
-list.pop(-1)
-print list
+list1.pop(-1)
+print list1
 
 # tuple
 #   另一种有序列表叫元组：tuple。tuple和list非常类似，但是tuple一旦初始化就不能修改

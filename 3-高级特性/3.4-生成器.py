@@ -21,3 +21,4 @@ def fib(max):
 print fib
 for n in fib(6):
     print n,
+

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../PyTest/1-Python基础/1.3-使用list和tuple.py" line="14" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/1-Python基础/1.3-使用list和tuple.py" line="14" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="652198a5-a48e-4d57-a709-11feaaa4e94a" name="Default" comment="" />
+    <list default="true" id="652198a5-a48e-4d57-a709-11feaaa4e94a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-函数式编程/4.1高阶函数-map$reduce.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-函数式编程/4.2高阶函数-filter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-函数式编程/4.3高阶函数-sorted.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-函数式编程/4.4返回函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-函数式编程/4.5匿名函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-函数式编程/4.6装饰器.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-函数式编程/4.7偏函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nowcoder_c1/c1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nowcoder_c1/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nowcoder_c1/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-170107/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-170107/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-170107/helloworld.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/爬虫/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1-Python基础/1.3-使用list和tuple.py" afterPath="$PROJECT_DIR$/1-Python基础/1.3-使用list和tuple.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-高级特性/3.1-切片.py" afterPath="$PROJECT_DIR$/3-高级特性/3.1-切片.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-高级特性/3.4-生成器.py" afterPath="$PROJECT_DIR$/3-高级特性/3.4-生成器.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +33,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/HelloWorld$3_listtuple.coverage" NAME="3.使用list和tuple Coverage Results" MODIFIED="1482301804920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础" />
-    <SUITE FILE_PATH="coverage/HelloWorld$5_dictset.coverage" NAME="5.使用dict和set Coverage Results" MODIFIED="1482316403973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础" />
-    <SUITE FILE_PATH="coverage/HelloWorld$3_3_.coverage" NAME="3.3-列表生成式 Coverage Results" MODIFIED="1482343473785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
-    <SUITE FILE_PATH="coverage/HelloWorld$3_2_.coverage" NAME="3.2-迭代 Coverage Results" MODIFIED="1482339582965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
-    <SUITE FILE_PATH="coverage/HelloWorld$hello.coverage" NAME="hello Coverage Results" MODIFIED="1482295285577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HelloWorld$3_1_.coverage" NAME="3.1-切片 Coverage Results" MODIFIED="1482338623966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
-    <SUITE FILE_PATH="coverage/HelloWorld$5_dictset__1_.coverage" NAME="5.使用dict和set (1) Coverage Results" MODIFIED="1482332859187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Python基础" />
-    <SUITE FILE_PATH="coverage/HelloWorld$2_2_.coverage" NAME="2.2-函数的参数 Coverage Results" MODIFIED="1482337468584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.函数" />
-    <SUITE FILE_PATH="coverage/HelloWorld$2_1_.coverage" NAME="2.1-定义函数 Coverage Results" MODIFIED="1482334045285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.函数" />
-    <SUITE FILE_PATH="coverage/HelloWorld$4_.coverage" NAME="4.条件判断和循环 Coverage Results" MODIFIED="1482310486696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础" />
-    <SUITE FILE_PATH="coverage/HelloWorld$3_4_.coverage" NAME="3.4-生成器 Coverage Results" MODIFIED="1482344365584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
-    <SUITE FILE_PATH="coverage/HelloWorld$2_.coverage" NAME="2.字符串与编码 Coverage Results" MODIFIED="1482296592596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础" />
+    <SUITE FILE_PATH="coverage/PyTest$4_3_sorted.coverage" NAME="4.3-sorted Coverage Results" MODIFIED="1483758014752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-函数式编程" />
+    <SUITE FILE_PATH="coverage/PyTest$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1484219974369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-170107" />
+    <SUITE FILE_PATH="coverage/PyTest$map_reduce.coverage" NAME="map$reduce Coverage Results" MODIFIED="1482387736985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-函数式编程" />
+    <SUITE FILE_PATH="coverage/PyTest$4_5.coverage" NAME="4.5匿名函数 Coverage Results" MODIFIED="1500215610097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-函数式编程" />
+    <SUITE FILE_PATH="coverage/HelloWorld$hello.coverage" NAME="hello Coverage Results" MODIFIED="1482295285577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld" />
+    <SUITE FILE_PATH="coverage/HelloWorld$3_4_.coverage" NAME="3.4-生成器 Coverage Results" MODIFIED="1482344365584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/3-高级特性" />
+    <SUITE FILE_PATH="coverage/HelloWorld$2_.coverage" NAME="2.字符串与编码 Coverage Results" MODIFIED="1482296592596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/Python基础" />
+    <SUITE FILE_PATH="coverage/PyTest$4_2_filter.coverage" NAME="4.2-filter Coverage Results" MODIFIED="1482419088212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-函数式编程" />
+    <SUITE FILE_PATH="coverage/PyTest$4_6.coverage" NAME="4.6装饰器 Coverage Results" MODIFIED="1500215504251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-函数式编程" />
+    <SUITE FILE_PATH="coverage/HelloWorld$3_listtuple.coverage" NAME="3.使用list和tuple Coverage Results" MODIFIED="1482301804920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/Python基础" />
+    <SUITE FILE_PATH="coverage/HelloWorld$5_dictset.coverage" NAME="5.使用dict和set Coverage Results" MODIFIED="1482316403973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/Python基础" />
+    <SUITE FILE_PATH="coverage/PyTest$3_4_.coverage" NAME="3.4-生成器 Coverage Results" MODIFIED="1482345421831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
+    <SUITE FILE_PATH="coverage/HelloWorld$3_3_.coverage" NAME="3.3-列表生成式 Coverage Results" MODIFIED="1482343473785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/3-高级特性" />
+    <SUITE FILE_PATH="coverage/PyTest$3_4___1_.coverage" NAME="3.4-生成器 (1) Coverage Results" MODIFIED="1482345410351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
+    <SUITE FILE_PATH="coverage/HelloWorld$3_2_.coverage" NAME="3.2-迭代 Coverage Results" MODIFIED="1482339582965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/3-高级特性" />
+    <SUITE FILE_PATH="coverage/PyTest$3_3___1_.coverage" NAME="3.3-列表生成式 (1) Coverage Results" MODIFIED="1482345383554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
+    <SUITE FILE_PATH="coverage/PyTest$test.coverage" NAME="test Coverage Results" MODIFIED="1516368469095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder_c1" />
+    <SUITE FILE_PATH="coverage/HelloWorld$3_1_.coverage" NAME="3.1-切片 Coverage Results" MODIFIED="1482338623966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/3-高级特性" />
+    <SUITE FILE_PATH="coverage/HelloWorld$5_dictset__1_.coverage" NAME="5.使用dict和set (1) Coverage Results" MODIFIED="1482332859187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/1.Python基础" />
+    <SUITE FILE_PATH="coverage/HelloWorld$2_2_.coverage" NAME="2.2-函数的参数 Coverage Results" MODIFIED="1482337468584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/2.函数" />
+    <SUITE FILE_PATH="coverage/HelloWorld$2_1_.coverage" NAME="2.1-定义函数 Coverage Results" MODIFIED="1482334045285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/2.函数" />
+    <SUITE FILE_PATH="coverage/HelloWorld$4_.coverage" NAME="4.条件判断和循环 Coverage Results" MODIFIED="1482310486696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HelloWorld/Python基础" />
+    <SUITE FILE_PATH="coverage/PyTest$3_3_.coverage" NAME="3.3-列表生成式 Coverage Results" MODIFIED="1482345466922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-高级特性" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -32,62 +63,39 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2.1-定义函数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyTest/2-函数/2.1-定义函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-              <folding />
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nowcoder_c1/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.2-函数的参数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyTest/2-函数/2.2-函数的参数.py">
+      <file leaf-file-name="c1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nowcoder_c1/c1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="e#25#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.1-切片.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.1-切片.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nowcoder_c1/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.2-迭代.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.2-迭代.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.3-列表生成式.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.3-列表生成式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.4-生成器.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.4-生成器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,26 +109,52 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/字符串与编码.py" />
-        <option value="$PROJECT_DIR$/Python基础/2.字符串与编码.py" />
-        <option value="$PROJECT_DIR$/Python基础/3.使用list和tuple.py" />
-        <option value="$PROJECT_DIR$/Python基础/4.条件判断和循环.py" />
-        <option value="$PROJECT_DIR$/Python基础/5.使用dict和set.py" />
-        <option value="$PROJECT_DIR$/1.Python基础/5.使用dict和set.py" />
-        <option value="$PROJECT_DIR$/2.函数/2.1-定义函数.py" />
-        <option value="$PROJECT_DIR$/2.函数/2.2-函数的参数.py" />
-        <option value="$PROJECT_DIR$/2.函数/2.3-函数的参数.py" />
-        <option value="$PROJECT_DIR$/3-高级特性/3.1-切片.py" />
-        <option value="$PROJECT_DIR$/3-高级特性/3.2-迭代.py" />
-        <option value="$PROJECT_DIR$/3-高级特性/3.3-列表生成式.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/hello.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/字符串与编码.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/Python基础/2.字符串与编码.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/Python基础/3.使用list和tuple.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/Python基础/4.条件判断和循环.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/Python基础/5.使用dict和set.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/1.Python基础/5.使用dict和set.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/2.函数/2.1-定义函数.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/2.函数/2.2-函数的参数.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/2.函数/2.3-函数的参数.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/3-高级特性/3.1-切片.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/3-高级特性/3.2-迭代.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/3-高级特性/3.3-列表生成式.py" />
+        <option value="$PROJECT_DIR$/../HelloWorld/3-高级特性/3.4-生成器.py" />
         <option value="$PROJECT_DIR$/3-高级特性/3.4-生成器.py" />
+        <option value="$PROJECT_DIR$/3-高级特性/3.1-切片.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/map/reduce.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/map&amp;reduce.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/map$reduce.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.2-filter.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/sorted.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.3-sorted.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.1高阶函数-map$reduce.py" />
+        <option value="$PROJECT_DIR$/1-Python基础/1.3-使用list和tuple.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/装饰器.py" />
+        <option value="$PROJECT_DIR$/test-170107/README.md" />
+        <option value="$PROJECT_DIR$/test-170107/helloworld.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.3高阶函数-sorted.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.4返回函数.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.6装饰器.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.7偏函数.py" />
+        <option value="$PROJECT_DIR$/4-函数式编程/4.5匿名函数.py" />
+        <option value="$PROJECT_DIR$/爬虫/README.md" />
+        <option value="$PROJECT_DIR$/nowcoder_c1/c1.py" />
+        <option value="$PROJECT_DIR$/nowcoder_c1/test.py" />
       </list>
     </option>
   </component>
@@ -131,10 +165,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
     <option name="y" value="23" />
-    <option name="width" value="1397" />
-    <option name="height" value="877" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -152,7 +188,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,10 +199,6 @@
               <option name="myItemId" value="PyTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3-高级特性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -179,127 +210,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2-函数" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1-Python基础" />
+              <option name="myItemId" value="nowcoder_c1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python基础" />
+      <recent name="$PROJECT_DIR$/../HelloWorld/Python基础" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3.4-生成器">
-    <configuration default="false" name="2.2-函数的参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration default="false" name="4.3-sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-函数式编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HelloWorld" />
+      <module name="PyTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.函数/2.2-函数的参数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-函数式编程/4.3高阶函数-sorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.1-切片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-高级特性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test-170107" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HelloWorld" />
+      <module name="PyTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-高级特性/3.1-切片.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test-170107/helloworld.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.2-迭代" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="4.6装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-高级特性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-函数式编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HelloWorld" />
+      <module name="PyTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-高级特性/3.2-迭代.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-函数式编程/4.6装饰器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.3-列表生成式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="4.5匿名函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-高级特性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-函数式编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HelloWorld" />
+      <module name="PyTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-高级特性/3.3-列表生成式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-函数式编程/4.5匿名函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.4-生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-高级特性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder_c1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HelloWorld" />
+      <module name="PyTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-高级特性/3.4-生成器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder_c1/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -517,19 +547,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.2.2-函数的参数" />
-      <item index="1" class="java.lang.String" itemvalue="Python.3.1-切片" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3.2-迭代" />
-      <item index="3" class="java.lang.String" itemvalue="Python.3.3-列表生成式" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3.4-生成器" />
+      <item index="0" class="java.lang.String" itemvalue="Python.4.3-sorted" />
+      <item index="1" class="java.lang.String" itemvalue="Python.helloworld" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.6装饰器" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.5匿名函数" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3.4-生成器" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3.3-列表生成式" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3.2-迭代" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3.1-切片" />
-        <item index="4" class="java.lang.String" itemvalue="Python.2.2-函数的参数" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4.5匿名函数" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.6装饰器" />
+        <item index="3" class="java.lang.String" itemvalue="Python.helloworld" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.3-sorted" />
       </list>
     </recent_temporary>
   </component>
@@ -550,27 +580,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="23" width="1397" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24838941" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17811158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32650447" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,59 +610,161 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../PyTest/2-函数/2.1-定义函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/2-函数/2.2-函数的参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.1-切片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.2-迭代.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.3-列表生成式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.4-生成器.py">
+    <entry file="file://$PROJECT_DIR$/test-170107/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test-170107/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-170107/README.md" />
+    <entry file="file://$PROJECT_DIR$/test-170107/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-170107/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.2高阶函数-filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-函数/2.2-函数的参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.2高阶函数-filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.2高阶函数-filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.2高阶函数-filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-函数/2.1-定义函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-函数/2.2-函数的参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.1-切片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.2-迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.3-列表生成式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.4-生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-函数/2.1-定义函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-函数/2.2-函数的参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.1-切片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.2-迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.3-列表生成式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.4-生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HelloWorld/Python基础/__init__.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/348993582/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -640,54 +772,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/1-Python基础/1.2-字符串与编码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/1-Python基础/1.1-数据类型和变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/1-Python基础/1.4-条件判断和循环.py">
+    <entry file="file://$PROJECT_DIR$/1-Python基础/1.4-条件判断和循环.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/1-Python基础/1.5-使用dict和set.py">
+    <entry file="file://$PROJECT_DIR$/../HelloWorld/2.函数/2.3-递归函数.py" />
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/map/reduce.py" />
+    <entry file="file://$PROJECT_DIR$/1-Python基础/1.5-使用dict和set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
+        <state relative-caret-position="525">
           <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/2-函数/2.1-定义函数.py">
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.1-切片.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.2-迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.3-列表生成式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-高级特性/3.4-生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-函数/2.1-定义函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
           <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/2-函数/2.2-函数的参数.py">
+    <entry file="file://$PROJECT_DIR$/1-Python基础/1.3-使用list和tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="390">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.函数/2.3-递归函数.py" />
-    <entry file="file://$PROJECT_DIR$/../PyTest/1-Python基础/1.3-使用list和tuple.py">
+    <entry file="file://$PROJECT_DIR$/1-Python基础/1.2-字符串与编码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-函数/2.2-函数的参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-170107/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-170107/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.4返回函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.3高阶函数-sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.2高阶函数-filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.1高阶函数-map$reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.6装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="e#16#27#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.7偏函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -695,35 +912,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.1-切片.py">
+    <entry file="file://$PROJECT_DIR$/4-函数式编程/4.5匿名函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Python基础/1.1-数据类型和变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.2-迭代.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder_c1/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.3-列表生成式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/nowcoder_c1/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyTest/3-高级特性/3.4-生成器.py">
+    <entry file="file://$PROJECT_DIR$/nowcoder_c1/c1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder_c1/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
